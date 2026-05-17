@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rehman a python engineer based in Pakistan
-# I develop projects that help me better understand how to work with real projects
+I develop projects that help me better understand how to work with real projects
 
 
 💻 Computer Science Student | Python Developer (Beginner → Intermediate)
@@ -34,6 +34,6 @@ Python • Java • Git • GitHub • VS Code • MS Excel • SQL
 ---
 
 ## 📫 Contact
-GitHub: RehmanSurvivedError
-LinkedIn: https://www.linkedin.com/in/abdul-rehman-527154397/
+GitHub: RehmanSurvivedError | 
+LinkedIn: https://www.linkedin.com/in/abdul-rehman-527154397/ | 
 Gmail: rehmanhelpforqueries@gmail.com
