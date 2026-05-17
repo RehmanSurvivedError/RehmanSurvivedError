@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Rehman a python engineer based in Pakistan
+# I develop projects that help me better understand how to work with real projects
 
-<!--
-**RehmanSurvivedError/RehmanSurvivedError** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 Computer Science Student | Python Developer (Beginner → Intermediate)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- Currently learning software development with Python
+- Building real-world projects 
+- Interested in backend development and automation
+
+---
+
+## 📌 Featured Projects
+
+- 💰 Expense Tracker (CLI + JSON)
+- 📚 Notes Organizer (File-based system)
+- 💬 Chat Application (Data structures practice)
+
+---
+
+## 🛠️ Tech Stack
+Python • Java • Git • GitHub • VS Code • MS Excel • SQL
+
+---
+
+## 🎯 Goals
+- Land first software internship
+- Learn backend development (FastAPI / Flask)
+- Build production-level projects
+
+---
+
+## 📫 Contact
+GitHub: RehmanSurvivedError
+LinkedIn: https://www.linkedin.com/in/abdul-rehman-527154397/
+Gmail: rehmanhelpforqueries@gmail.com
