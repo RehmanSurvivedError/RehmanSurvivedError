@@ -36,6 +36,6 @@ Python • Java • Git • GitHub • VS Code • MS Excel • SQL
 ## 📫 Contact
 GitHub: RehmanSurvivedError
 
-LinkedIn: https://www.linkedin.com/in/abdul-rehman-527154397/ | 
+LinkedIn: https://www.linkedin.com/in/abdul-rehman-527154397/ 
 
 Gmail: rehmanhelpforqueries@gmail.com
