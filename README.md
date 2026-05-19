@@ -27,7 +27,7 @@ Python • Java • Git • GitHub • VS Code • MS Excel • SQL
 ---
 
 ## 🎯 Goals
-- Land first software internship
+- Learn system designs
 - Learn backend development (FastAPI / Flask)
 - Build production-level projects
 
