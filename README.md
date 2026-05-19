@@ -18,6 +18,7 @@ I develop projects that help me better understand how to work with real projects
 - 💰 Expense Tracker (CLI + JSON)
 - 📚 Notes Organizer (File-based system)
 - 💬 Chat Application (Data structures practice)
+- 🏋️ Obesity Classifier (ML + FastAPI)
 
 ---
 
